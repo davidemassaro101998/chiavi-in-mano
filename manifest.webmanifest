@@ -1,0 +1,25 @@
+{
+ "name": "Chiavi in mano",
+ "short_name": "Chiavi",
+ "lang": "it",
+ "start_url": "./index.html",
+ "scope": "./",
+ "display": "standalone",
+ "background_color": "#eef1f4",
+ "theme_color": "#2f4256",
+ "description": "Gestionale del noleggio furgoni e auto — G.G.S. Gruppo GS",
+ "icons": [
+  {
+   "src": "./icona-192.png",
+   "sizes": "192x192",
+   "type": "image/png",
+   "purpose": "any"
+  },
+  {
+   "src": "./icona-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "any"
+  }
+ ]
+}
